@@ -1,4 +1,20 @@
-# Unstoppable Domains Documentation
+# Unstoppable Domains API Reference Portal Overview
+
+This API Reference is designed to help you understand how to build and integrate custom applications using Unstoppable Domains APIs.
+
+Explore the available APIs below:
+
+- [User API, MCP Server, and CLI](/mcp/overview)
+- [Reseller API](/apis/reseller/openapi)
+
+
+## Help Us Improve
+
+At Unstoppable Domains, we are always looking for ways to improve the experience of developers using our products and integrating them into their applications. We would appreciate your feedback on your experience with our products to help us improve.
+
+div
+button
+Take Our Survey# Unstoppable Domains Documentation
 
 [![Unstoppable Domains Documentation](https://img.shields.io/badge/docs-unstoppabledomains.com-blue)](https://docs.unstoppabledomains.com/)
 
